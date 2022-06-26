@@ -1,8 +1,6 @@
 # Stock-analysis Overview:
 
-The purpose of this project was to help my client analyze a list of stocks to determine it's total daily volume which is the total number of shares traded throughout the day with each stock listed and it's return percentage which is the difference in price from the beginning of the year to the end of the year. I accomplished this using VBA.
-
-To help my client I made a button for them to press so it'll be easy to analyze the macro as a whole in one go. I also added the amount of time the analysis took after the button was pressed. I did this because in the near future my client wants to add more stocks on the list. To make sure my analysis runs smoothly I made an additional macro with the same data and solutions but the codes refactored. And so I added another button to test if the run-time of the analysis was shortened.
+The purpose of this project was to help my client analyze a list of stocks to determine it's total daily volume which is the total number of shares traded throughout the day with each stock listed and it's return percentage which is the difference in price from the beginning of the year to the end of the year. I accomplished this using VBA.To help my client I made a button for them to press so it'll be easy to analyze the macro as a whole in one go. I also added the amount of time the analysis took after the button was pressed. I did this because in the near future my client wants to add more stocks on the list. To make sure my analysis runs smoothly I made an additional macro with the same data and solutions but the codes refactored. And so I added another button to test if the run-time of the analysis was shortened.
 
 ## Results:
 
